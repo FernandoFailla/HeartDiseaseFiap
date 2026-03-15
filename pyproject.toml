@@ -1,0 +1,7 @@
+[project]
+name = "fase1-projeto"
+version = "0.1.0"
+description = "Projeto FIAP HeathCare Plus"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
